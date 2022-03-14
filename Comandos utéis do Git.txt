@@ -3,3 +3,6 @@ Criar um diretório - mkdir
 Navegar entre os diretórios - cd / cd..
 Subir para o Github - git commit -m "<message>"
 Empurrar para o Github - git push origin main
+Subir novo repositório - git remote add origin "<link>"
+                         git branch -M main
+                         git push -u origin main
