@@ -1,0 +1,5 @@
+Listar arquivos - ls
+Criar um diretório - mkdir
+Navegar entre os diretórios - cd / cd..
+Subir para o Github - git commit -m "<message>"
+Empurrar para o Github - git push origin main
